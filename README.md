@@ -1,4 +1,4 @@
-### Hi there, I'm Siraj [website] 👋 
+### Hi there, I'm [Siraj]👋 
 
 
 ## I'm a Itian, Geek and Student!!
@@ -32,7 +32,7 @@
 
 ---
 
-[website]: https://linkedin.com/in/sirajofcl
+[Siraj]: https://linkedin.com/in/sirajofcl
 [twitter]: https://twitter.com/sirajofcl
 [instagram]: https://instagram.com/sirajofcl/
 [linkedin]: https://linkedin.com/in/sirajofcl
