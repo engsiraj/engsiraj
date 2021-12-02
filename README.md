@@ -1,9 +1,9 @@
 ### Hi there, I'm Siraj [website] 👋 
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Itian, Geek and Student!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!]
+- 🔭 Frontend developer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
