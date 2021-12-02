@@ -34,6 +34,6 @@
 
 [website]: https://linkedin.com/in/sirajofcl
 [twitter]: https://twitter.com/sirajofcl
-[instagram]: https://instagram.com/sirajofcl
+[instagram]: https://instagram.com/sirajofcl/
 [linkedin]: https://linkedin.com/in/sirajofcl
 
