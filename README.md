@@ -32,7 +32,7 @@
 
 ---
 
-[Siraj]: https://linkedin.com/in/sirajofcl
+[Siraj]: https://siraj-portfolio.herokuapp.com/
 [twitter]: https://twitter.com/sirajofcl
 [instagram]: https://instagram.com/sirajofcl/
 [linkedin]: https://linkedin.com/in/sirajofcl
