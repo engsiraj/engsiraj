@@ -1,7 +1,7 @@
-### Hi there, I'm [Siraj]👋 
+## Hi there, I'm [Siraj]👋 
 
 
-## I'm a Itian, Geek and Student!!
+### I'm a Itian, Geek and Student!!
 
 - 🔭 Frontend developer
 - 🌱 I’m currently learning everything 🤣
