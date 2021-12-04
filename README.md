@@ -1,13 +1,6 @@
 ## Hi there, I'm [Siraj]👋 
 
 
-### I'm a Itian, Geek and Student!!
-
-- 🔭 Frontend developer
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to design and travelling
 
 ### Connect with me:
 
@@ -35,15 +28,15 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+###  Itian, Geek and Student!!
 
-
+- 🔭 Frontend developer 
+- 🌱 I’m currently learning React JS.
+- 🤔 Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 Studied Information technology and Computer programming.
+- ✍️ Watching and Trying out latest design trends as hobbies/side hustles.
+- ⚡ Fun fact: I love to design and travelling
+- ☕ I believe, a cup of Tea can be the solution for any stress. 
 
 
 
