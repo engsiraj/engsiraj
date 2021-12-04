@@ -1,17 +1,18 @@
-## Hi there, I'm [Siraj]👋 
+## Hi there, I'm [Siraj]  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
+###  Itian, Geek and Student !
 
+- 🔭 Frontend developer 
+- 🌱 I’m currently learning React JS.
+- 🤔 Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 Studied Information technology and Computer programming.
+- ✍️ Watching and Trying out latest design trends as hobbies/side hustles.
+- ⚡ Fun fact: I love to design and travelling
+- ☕ I believe, a cup of Tea can be the solution for any stress. 
 
-### Connect with me:
+### Tech Stack:
 
-[<img align="left" alt="sirajofcl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Siraj]
-[<img align="left" alt="sirajofcl  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="sirajofcl | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sirajofcl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br/>
-
-### Languages and Tools:
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -23,24 +24,14 @@
 
 <br/>
 
-<h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+### Connect with me:
 
-<h3> 👨🏻‍💻 About Me </h3>
+[<img align="left" alt="sirajofcl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Siraj]
+[<img align="left" alt="sirajofcl  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="sirajofcl | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sirajofcl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-###  Itian, Geek and Student!!
-
-- 🔭 Frontend developer 
-- 🌱 I’m currently learning React JS.
-- 🤔 Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 Studied Information technology and Computer programming.
-- ✍️ Watching and Trying out latest design trends as hobbies/side hustles.
-- ⚡ Fun fact: I love to design and travelling
-- ☕ I believe, a cup of Tea can be the solution for any stress. 
-
-
-
-
+<br/>
 
 
 ---
