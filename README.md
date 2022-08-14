@@ -3,13 +3,13 @@
 
 ###  Itian, Geek and a Student !
 
-- 🔭 Frontend developer 
-- 🌱 I’m currently learning React JS.
-- 🤔 Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 Studied Information technology and Computer programming.
-- ✍️ Watching and Trying out latest design trends as hobbies/side hustles.
-- ⚡ Fun fact: I love to design and travelling
-- ☕ I believe, a cup of Tea can be the solution for any stress. 
+🔭 Frontend developer 
+🌱 I’m currently learning React JS.
+🤔 Exploring new technologies and developing software solutions and quick hacks.
+🎓 Studied Information technology and Computer programming.
+✍️ Watching and Trying out latest design trends as hobbies/side hustles.
+⚡ Fun fact: I love to design and travelling
+☕ I believe, a cup of Tea can be the solution for any stress. 
  
 
 ### Tech Stack
@@ -38,7 +38,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirajofcl&layout=compact&text_color=000000)](https://github.com/sirajofcl/github-readme-stats)
 
----
 
 [Siraj]: https://siraj-portfolio.herokuapp.com/
 [twitter]: https://twitter.com/sirajofcl
