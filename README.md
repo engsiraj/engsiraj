@@ -3,13 +3,13 @@
 
 ###  Itian, Geek and a Student !
 
-🔭 Frontend developer 
-🌱 I’m currently learning React JS.
-🤔 Exploring new technologies and developing software solutions and quick hacks.
-🎓 Studied Information technology and Computer programming.
-✍️ Watching and Trying out latest design trends as hobbies/side hustles.
-⚡ Fun fact: I love to design and travelling
-☕ I believe, a cup of Tea can be the solution for any stress. 
+🔭 Frontend developer.  <br/>
+🌱 I’m currently learning React JS.  <br/>
+🤔 Exploring new technologies and developing software solutions and quick hacks. <br/>
+🎓 Studied Information technology and Computer programming. <br/>
+✍️ Watching and Trying out latest design trends as hobbies/side hustles. <br/>
+⚡ Fun fact: I love to design and travelling. <br/>
+☕ I believe, a cup of Tea can be the solution for any stress.  <br/>
  
 
 ### Tech Stack
