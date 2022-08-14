@@ -36,7 +36,7 @@
 
 ### Stats for people who love statistics.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirajofcl&layout=compact&text_color=daf7dc&bg_color=)](https://github.com/sirajofcl/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirajofcl&layout=compact&text_color=000000)](https://github.com/sirajofcl/github-readme-stats)
 
 ---
 
