@@ -1,6 +1,5 @@
 # Hi there, I'm [Siraj]  
 
-<br/>
 
 ### Frontend developer | Design system engineer
 
