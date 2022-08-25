@@ -8,7 +8,7 @@
 - Python/Django/Api's
 
 ### Find me here sometime
-[Linkedin] | [Ttwitter]
+[Linkedin] | [Twitter]
 
 <br/>
 
