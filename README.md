@@ -1,4 +1,4 @@
-# Hi there, I'm [Siraj]  
+## Hi there, I'm [Siraj]  
 
 
 ### Frontend developer | Design system engineer
@@ -8,7 +8,7 @@
 - Python/Django/Api's
 
 ### Find me here sometime
-[linkedin] | [twitter]
+[Linkedin] | [Ttwitter]
 
 <br/>
 
