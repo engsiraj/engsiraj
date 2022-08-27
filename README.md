@@ -12,7 +12,7 @@
 
 <br/>
 
-[Siraj]: https://siraj-portfolio.herokuapp.com/
+[Siraj]: https://portfolio-2-0-hazel-one.vercel.app/
 [twitter]: https://twitter.com/sirajofcl
 [linkedin]: https://linkedin.com/in/sirajofcl
 
