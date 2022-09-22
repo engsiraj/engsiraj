@@ -13,6 +13,6 @@
 <br/>
 
 [Siraj]: https://portfolio-2-0-hazel-one.vercel.app/
-[twitter]: https://twitter.com/sirajofcl
-[linkedin]: https://linkedin.com/in/sirajofcl
+[twitter]: https://twitter.com/engsiraj_
+[linkedin]: https://linkedin.com/in/engsiraj
 
