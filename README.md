@@ -5,7 +5,6 @@
 
 ### Tech Stack
 - Javascript/Reactjs/Html/CSS/Styled Component/Bootstrap/Tailwind
-- Python/Django/Api's
 
 ### Find me here sometime
 [Linkedin] | [Twitter]
