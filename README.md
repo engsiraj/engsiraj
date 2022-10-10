@@ -1,11 +1,11 @@
 ## Hi there, I'm [Siraj]  
 
-
 ### Frontend developer 
-### Tech Stack
+
+#### Tech Stack
 - Javascript/Reactjs/Html/CSS/Styled Component/Bootstrap/Tailwind
 
-### Find me here sometime
+#### Find me here
 [Linkedin] | [Twitter]
 
 <br/>
