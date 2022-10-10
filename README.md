@@ -1,8 +1,7 @@
 ## Hi there, I'm [Siraj]  
 
 
-### Frontend developer | Design system engineer
-
+### Frontend developer 
 ### Tech Stack
 - Javascript/Reactjs/Html/CSS/Styled Component/Bootstrap/Tailwind
 
