@@ -5,7 +5,8 @@
 ✨ Javascript/React JS <br/>
 ✨ CSS/SASS/styled-components/MUI/Bootstrap/Tailwind <br/>
 <br/>
-[Linkedin] | [Twitter]
+
+[linkedin] | [twitter]
 
 <br/>
 
