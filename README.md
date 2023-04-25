@@ -2,8 +2,9 @@
 
 ### Frontend developer 🚧
 
-✨ Javascript/React JS <br/>
+✨ Javascript/Typescript/React JS <br/>
 ✨ CSS/SASS/styled-components/MUI/Bootstrap/Tailwind <br/>
+✨ Python/Flask/Api's <br/>
 <br/>
 
 [Linkedin] | [Twitter]
