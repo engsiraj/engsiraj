@@ -1,4 +1,4 @@
-## Hi there, I'm [Siraj]
+## Hi, I'm [Siraj]
 
 ### Python developer | Api Developer 🚧
 
