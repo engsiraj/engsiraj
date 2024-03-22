@@ -1,10 +1,10 @@
 ## Hi there, I'm [Siraj]
 
-### Fullstack developer 🚧
+### Python developer | Api Developer 🚧
 
-✨ Javascript/Typescript/React JS <br/>
-✨ CSS/SASS/styled-components/MUI/Bootstrap/Tailwind <br/>
-✨ Python/django/django-restframework/Rest Api <br/>
+✨ django | django-restframework<br/>
+✨ Flask | Flask Api <br/>
+✨ Javascript | Typescript | React JS | Next js <br/>
 <br/>
 
 [Linkedin] | [Twitter]
