@@ -2,8 +2,7 @@
 
 ### Python developer | Api Developer 🚧
 
-✨ Django | Django-restframework<br/>
-✨ Flask | Flask Api <br/>
+✨ Django | Django-restframework | Fast Api<br/>
 ✨ Javascript | Typescript | React JS | Next js <br/>
 <br/>
 
